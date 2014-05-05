@@ -1,3 +1,5 @@
+[Download presentation PDF](https://github.com/spape/Testing-in-AngularJS/raw/master/Testing%20in%20AngularJS.pdf)
+
 Why testing
 ===========
 
